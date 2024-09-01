@@ -8,9 +8,8 @@ import authRoutes from "./routes/authRoutes.js";
 import userRoutes from "./routes/userRoutes.js";
 dotenv.config();
 const corsOptions = {
-  origin: "*",
-  credentials: true,
-  optionSuccessStatus: 200,
+  origin: 'https://gdsc-final-project-frontend.vercel.app',
+  optionsSuccessStatus: 200,
 };
 const app = express();
 app.use(cors(corsOptions));
