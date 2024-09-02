@@ -176,7 +176,7 @@ While the current version of the website provides essential features, several im
 
 1. **Multiple Admins**:
    - We could enable multiple users to have admin access.
-   - Each admin could manage their own cars with full administrative functionalities, similar to the current admin role.
+   - Each user could manage their own cars with full administrative functionalities, similar to the current admin role.
 
 2. **Booking Management**:
    - Future updates could include the ability for admins to accept or decline bookings, adding another layer of control and interaction with the users.
