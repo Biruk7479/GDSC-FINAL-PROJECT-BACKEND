@@ -156,7 +156,8 @@ The `middleware.js` middleware is used to protect routes by verifying the JWT to
 
    ```plaintext
    JWT_SECRET=MIHcAgEBBEIBRJ2DtMGLW1UgaePbfJzDLBKgaU7UHGbW4vKs6Sbw74RwrHa1jaOct8SjF30PuTmxUAQ9rwsxbhHGftpGLr6B3rCgBwYFK4EEACOhgYkDgYYABABIyh/n21bPwyY1SmWgbOKtx79ACHVninmRl0BKtuISChX40mmA3c3gX0Ck3pnPdaE40EskFtrwAXV7Qgh8nAAGuADj0BEOIvs4I4UJpknZn0PTln1mUCq0Pn84CbSq6AvJYxAh5LAvz+LsX9/eQERW+/NSYcAxuh1utalvr9+WuWa/
-MONGO_URI=mongodb+srv://biruk7479:pinvjkskvcsdj@clusterforcrw.2igmg.mongodb.net/?retryWrites=true&w=majority&appName=ClusterForCRW
+   MONGO_URI=mongodb+srv://biruk7479:pinvjkskvcsdj@clusterforcrw.2igmg.mongodb.net/?retryWrites=true&w=majority&appName=ClusterForCRW
+
    ```
 
 ## Usage
