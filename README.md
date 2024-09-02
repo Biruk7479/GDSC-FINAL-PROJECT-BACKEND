@@ -146,19 +146,13 @@ The `middleware.js` middleware is used to protect routes by verifying the JWT to
    git clone https://github.com/Biruk7479/GDSC-FINAL-PROJECT-FRONTEND.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd car-rental-website
-   ```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
    ```bash
    npm install
    ```
 
-4. Create a `.env` file in the root directory and add your environment variables:
+3. Create a `.env` file in the root directory and add your environment variables:
 
    ```plaintext
    JWT_SECRET=MIHcAgEBBEIBRJ2DtMGLW1UgaePbfJzDLBKgaU7UHGbW4vKs6Sbw74RwrHa1jaOct8SjF30PuTmxUAQ9rwsxbhHGftpGLr6B3rCgBwYFK4EEACOhgYkDgYYABABIyh/n21bPwyY1SmWgbOKtx79ACHVninmRl0BKtuISChX40mmA3c3gX0Ck3pnPdaE40EskFtrwAXV7Qgh8nAAGuADj0BEOIvs4I4UJpknZn0PTln1mUCq0Pn84CbSq6AvJYxAh5LAvz+LsX9/eQERW+/NSYcAxuh1utalvr9+WuWa/
